@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327223155212",
+    "firebase_url": "https://task-6797b-default-rtdb.firebaseio.com",
+    "project_id": "task-6797b",
+    "storage_bucket": "task-6797b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327223155212:android:dafbd7411f123fce7aec29",
+        "android_client_info": {
+          "package_name": "com.dfa.flutterchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327223155212-dhvr7ab5pprivofp63kjaamdtd85pou6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNGPaNHefXiwdGiAGazUH2kCSmhC6e1Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327223155212-dhvr7ab5pprivofp63kjaamdtd85pou6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
